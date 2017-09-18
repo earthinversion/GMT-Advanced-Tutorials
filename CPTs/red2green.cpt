@@ -1,0 +1,12 @@
+#	$Id: red2green.cpt 16562 2016-06-18 04:04:08Z pwessel $
+#
+# Like POLAR, but red to green instead
+# Designed by P. Wessel, SOEST
+#
+#----------------------------------------------------------
+# COLOR_MODEL = RGB
+# HINGE = 0
+#----------------------------------------------------------
+-1	red	0	white
+0	white	1	green
+#----------------------------------------------------------

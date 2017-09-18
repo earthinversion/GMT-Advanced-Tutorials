@@ -1,0 +1,7 @@
+#	$Id: ltriangle.def 12822 2014-01-31 23:39:56Z remko $
+#
+#	Definition file a left-pointing triangle symbol.
+#
+0.25	-0.433012701892	M
+0.25	0.433012701892	D
+-0.5	0		D

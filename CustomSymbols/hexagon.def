@@ -1,0 +1,12 @@
+#	$Id: hexagon.def 12822 2014-01-31 23:39:56Z remko $
+#
+#	Definition file for hexagon symbol.  Use in psxy
+#	as -Skhexagon/size.  Unlike -Sh, this allows for
+#	using patterns as fill
+#
+0.5		0		M
+0.25		0.433012702	D
+-0.25		0.433012702	D
+-0.5		0		D
+-0.25		-0.433012702	D
+0.25		-0.433012702	D

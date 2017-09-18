@@ -1,0 +1,7 @@
+#	$Id: vlens.def 12822 2014-01-31 23:39:56Z remko $
+#
+#	Definition file for a vertical lens symbol.
+#
+0	-0.5	M
+0.5	0	1.41421356237309504880	225	135	A
+-0.5	0	1.41421356237309504880	45	-45	A

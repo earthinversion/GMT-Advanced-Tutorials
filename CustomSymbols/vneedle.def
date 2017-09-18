@@ -1,0 +1,8 @@
+#	$Id: vneedle.def 12822 2014-01-31 23:39:56Z remko $
+#
+#	Definition file a vertical very narrow diamond-like symbol.
+#
+0.1	0	M
+0	0.5	D
+-0.1	0	D
+0	-0.5	D

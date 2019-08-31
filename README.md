@@ -7,7 +7,14 @@ This tutorial consists of Bash script files to run the GMT. It also contains all
 ### Bash Scripts:
 
 1. [1spectral_estimation_xy_plots.sh](https://github.com/utpalkumariesas/GMT-Advanced-Tutorials/blob/master/1spectral_estimation_xy_plots.sh) 
-2. [2three-dimensional-mesh-plot.sh](https://github.com/utpalkumariesas/GMT-Advanced-Tutorials/blob/master/2three-dimensional-mesh-plot.sh): : [Output1](https://github.com/utpalkumariesas/GMT-Advanced-Tutorials/blob/master/Figures/GMT_example2-1.jpg) [Output2](https://github.com/utpalkumariesas/GMT-Advanced-Tutorials/blob/master/Figures/GMT_example2-2.jpg)
+2. [2three-dimensional-mesh-plot.sh](https://github.com/utpalkumariesas/GMT-Advanced-Tutorials/blob/master/2three-dimensional-mesh-plot.sh): : [Output1](https://github.com/utpalkumariesas/GMT-Advanced-Tutorials/blob/master/Figures/GMT_example2-1.jpg)
+<p align="center">
+  <img src="Figures/GMT_example2-1.jpg" width=300>
+ </p> 
+[Output2](https://github.com/utpalkumariesas/GMT-Advanced-Tutorials/blob/master/Figures/GMT_example2-2.jpg)
+<p align="center">
+  <img src="Figures/GMT_example2-2.jpg" width=300>
+ </p> 
 3. [3three-D-surface.sh](https://github.com/utpalkumariesas/GMT-Advanced-Tutorials/blob/master/3three-D-surface.sh): [Output1](https://github.com/utpalkumariesas/GMT-Advanced-Tutorials/blob/master/Figures/GMT_example3-1.jpg)
 4. [4plot_histogram.sh](https://github.com/utpalkumariesas/GMT-Advanced-Tutorials/blob/master/4plot_histogram.sh): [Output1](https://github.com/utpalkumariesas/GMT-Advanced-Tutorials/blob/master/Figures/GMT_example4-1.jpg)
 5. [5simple_location_map.sh](https://github.com/utpalkumariesas/GMT-Advanced-Tutorials/blob/master/5simple_location_map.sh): [Output1](https://github.com/utpalkumariesas/GMT-Advanced-Tutorials/blob/master/Figures/GMT_example5-1.jpg)

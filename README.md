@@ -17,7 +17,7 @@ This tutorial consists of Bash script files to run the GMT. It also contains all
 3. [3three-D-surface.sh](3three-D-surface.sh): 
 
 <p align="center">
-  <img src="Figures/GMT_example3-1.jpg" width=500>
+  <img src="Figures/GMT_example3-1.jpg" width=500 style="transform:rotate(90deg);">
  </p> 
 
 4. [4plot_histogram.sh](4plot_histogram.sh): 
@@ -29,18 +29,18 @@ This tutorial consists of Bash script files to run the GMT. It also contains all
 5. [5simple_location_map.sh](5simple_location_map.sh): 
 
 <p align="center">
-  <img src="Figures/GMT_example5-1.jpg" width=500>
+  <img src="Figures/GMT_example5-1.jpg" width=500 style="transform:rotate(90deg);">
  </p> 
 
 6. [6time_series_along_tracks.sh](6time_series_along_tracks.sh): 
 
 <p align="center">
-  <img src="Figures/GMT_example6-1.jpg" width=500>
+  <img src="Figures/GMT_example6-1.jpg" width=500 style="transform:rotate(90deg);">
  </p> 
 
 7. [7geographical_plots.sh](7geographical_plots.sh): 
 <p align="center">
-  <img src="Figures/GMT_example7-1.jpg" width=500>
+  <img src="Figures/GMT_example7-1.jpg" width=500 style="transform:rotate(90deg);">
  </p> 
 
 8. [8gridding_contouring_masking.sh](8gridding_contouring_masking.sh): 
@@ -55,22 +55,22 @@ This tutorial consists of Bash script files to run the GMT. It also contains all
 
 10. [10Plotting_custom_symbols.sh](10Plotting_custom_symbols.sh): 
 <p align="center">
-  <img src="Figures/GMT_example10-1.jpg" width=500>
+  <img src="Figures/GMT_example10-1.jpg" width=500 style="transform:rotate(90deg);">
  </p> 
 
 11. [11seismicity.sh](11seismicity.sh): 
 <p align="center">
-  <img src="Figures/GMT_example11-1.jpg" width=500>
+  <img src="Figures/GMT_example11-1.jpg" width=500 style="transform:rotate(90deg);">
  </p> 
 
 12. [12great_circle_paths.sh](12great_circle_paths.sh): 
 <p align="center">
-  <img src="Figures/GMT_example12-1.jpg" width=500>
+  <img src="Figures/GMT_example12-1.jpg" width=500 style="transform:rotate(90deg);">
  </p> 
 
 13. [13Data_selection_geospatial_criteria.sh](13Data_selection_geospatial_criteria.sh): 
 <p align="center">
-  <img src="Figures/GMT_example13-1.jpg" width=500>
+  <img src="Figures/GMT_example13-1.jpg" width=500 style="transform:rotate(90deg);">
  </p> 
 
 14. [14map_inserts.sh](14map_inserts.sh): 

@@ -3,7 +3,9 @@
 <head>
 </head>
 <body>
-  For better view, visit <a href="https://utpalrai.github.io/GMT-Advanced-Tutorials/">here.</a>
+
+For step-by-step tutorial, visit [earthinversion](https://www.earthinversion.com/GMT-advanced-II/)
+
 <h1>GMT Advanced Tutorial</h1>
 <p>For basic tutorial, please visit <a href="https://utpalkumariesas.github.io/GMT_tutorial_for_beginners/">here.</a></p>
 
